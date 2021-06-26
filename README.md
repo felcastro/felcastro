@@ -31,7 +31,7 @@
 
 ### Interests:
 
-<a href="https://redis.io" title="redis" target="_blank"><img src="assets/golang.svg" /></a>
+<a href="https://golang.org" title="Go" target="_blank"><img src="assets/golang.svg" /></a>
 <a href="https://redis.io" title="redis" target="_blank"><img src="assets/redis.svg" /></a>
 <a href="https://graphql.org" title="GraphQL" target="_blank"><img src="assets/graphql.svg" /></a>
 <a href="https://nextjs.org" title="Next.js" target="_blank"><img src="assets/nextjs.svg" /></a>
