@@ -10,8 +10,6 @@
 <a href="https://github.com/felcastro" title="felcastro | GitHub" target="_blank"><img src="assets/github.svg" /></a>
 <a href="https://linkedin.com/in/fpocastro" title="fpocastro | LinkedIn" target="_blank"><img src="assets/linkedin.svg" /></a>
 
-<br />
-
 ### Currently working with:
 
 <a href="https://code.visualstudio.com" title="VSCode" target="_blank"><img src="assets/vscode.svg" /></a>
@@ -30,8 +28,6 @@
 <a href="https://about.gitlab.com" title="GitLab" target="_blank"><img src="assets/gitlab.svg" /></a>
 <a href="https://rancher.com" title="Rancher" target="_blank"><img src="assets/rancher.svg" /></a>
 <a href="https://www.docker.com" title="Docker" target="_blank"><img src="assets/docker.svg" /></a>
-
-<br />
 
 ### Interests:
 
