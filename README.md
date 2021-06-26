@@ -31,6 +31,8 @@
 <a href="https://rancher.com" title="Rancher" target="_blank"><img src="assets/rancher.svg" /></a>
 <a href="https://www.docker.com" title="Docker" target="_blank"><img src="assets/docker.svg" /></a>
 
+<br />
+
 ### Interests:
 
 <a href="https://redis.io" title="redis" target="_blank"><img src="assets/redis.svg" /></a>
